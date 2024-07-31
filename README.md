@@ -56,44 +56,44 @@ I want a full presentation of the reviewed application, including at least 2 thi
 
 ## Groups
 ### Group 1
-Andrej
-Alexandros
-Arbnor
+Andrej,
+Alexandros,
+Arbnor,
 Isabelle
 
 ### Group 2
-Max
-Boel
-Sara
+Max,
+Boel,
+Sara,
 Nunzia
 
 ### Group 3
-Rasmus
-Sofia
-Jonatan
+Rasmus,
+Sofia,
+Jonatan,
 Johan S
 
 ### Group 4
-Nino
-Lovisa
-Veselin
-Joel
+Nino,
+Lovisa,
+Veselin,
+Joel,
 Hektor
 
 ### Group 5
-Johan A
-Mikalea
-Yulia
+Johan A,
+Mikalea,
+Yulia,
 Veselin
 
 ### Group 6
-Erik
-Fanny
-Jessica
+Erik,
+Fanny,
+Jessica,
 Anton
 
 ### Group 7
-Anna
-Tatiana
-Michael
+Anna,
+Tatiana,
+Michael,
 Louise
