@@ -46,6 +46,14 @@ https://restcountries.com/
 https://github.com/public-apis/public-apis
 ```
 
+## Instructions
+You will have one afternoon day 1 to make decisions, test API, plan, sketch, and if you find time start coding.
+Then you will have all of day 2 to code your application.
+On day 3 you will get another project on your hands that you are to review, and then present.
+
+### Presentation
+I want a full presentation of the reviewed application, including at least 2 things that you would have done differently, and 2 things that you think was very well done. Presentation should include both code review and a demonstration of the application.
+
 ## Groups
 ### Group 1
 Andrej
