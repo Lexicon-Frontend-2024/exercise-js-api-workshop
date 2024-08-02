@@ -55,44 +55,44 @@ On day 3 you will get another project on your hands that you are to review, and 
 I want a full presentation of the reviewed application, including at least 2 things that you would have done differently, and 2 things that you think was very well done. Presentation should include both code review and a demonstration of the application.
 
 ## Groups
-### Group 1
+### Group 1 - https://github.com/MikhailovaTatiana/dog-search-api
 Andrej,
 Alexandros,
 Arbnor,
 Isabelle
 
-### Group 2
+### Group 2 - https://github.com/IsabellePar/API-project
 Max,
 Boel,
 Sara,
 Nunzia
 
-### Group 3
+### Group 3 - https://github.com/marothon/country-guesser
 Rasmus,
 Sofia,
 Jonatan,
 Johan S
 
-### Group 4
+### Group 4 - https://github.com/JonatanSandberg/Gutenberg
 Nino,
 Lovisa,
 Veselin,
 Joel,
 Hektor
 
-### Group 5
+### Group 5 - https://github.com/ninokhodr/OMDB-API-Movie-Fetch
 Johan A,
 Mikalea,
 Yulia,
 Mattias
 
-### Group 6
+### Group 6 - https://github.com/mikaelalundstrom/api-workshop
 Erik,
 Fanny,
 Jessica,
 Anton
 
-### Group 7
+### Group 7 - https://github.com/jesshansson/exercise-js-api-workshop
 Anna,
 Tatiana,
 Michael,
